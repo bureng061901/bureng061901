@@ -1,9 +1,5 @@
-### Honey - Solar 👋
-
-<!--
-**bureng061901/bureng061901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Rengbu 👋 </h1>
+<h3 align="center">🎊 Hello world!</h3>
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning also nothing
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Place your hand in front  of you
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Scared of Shane Jean Razal
--->
+
